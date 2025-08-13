@@ -1,23 +1,56 @@
 {
-    "timeLimit": 2700, 
+    "timeLimit": 2700,
     "questions": [
         {
             "image": "q1.png",
             "options": [
-                {"text": "Option A text"},
-                {"text": "Option B text"},
-                {"text": "Option C text"},
-                {"text": "Option D text"}
+                { "text": "Option A text" },
+                { "text": "Option B text" },
+                { "text": "Option C text" },
+                { "text": "Option D text" }
             ],
-            "answer": 1, 
+            "answer": 1,
             "explanation": {
                 "text": "Detailed explanation for question 1",
                 "image": "e1.png",
-                "video": "explanation1.mp4" 
+                "video": "explanation1.mp4"
             },
             "topic": "Physics",
             "difficulty": "Medium"
         },
-       
+        {
+            "image": "q2.png",
+            "options": [
+                { "text": "Option A text" },
+                { "text": "Option B text" },
+                { "text": "Option C text" },
+                { "text": "Option D text" }
+            ],
+            "answer": 2,
+            "explanation": {
+                "text": "Detailed explanation for question 2",
+                "image": "e2.png",
+                "video": "explanation2.mp4"
+            },
+            "topic": "Chemistry",
+            "difficulty": "Easy"
+        },
+        {
+            "image": "q3.png",
+            "options": [
+                { "text": "Option A text" },
+                { "text": "Option B text" },
+                { "text": "Option C text" },
+                { "text": "Option D text" }
+            ],
+            "answer": 3,
+            "explanation": {
+                "text": "Detailed explanation for question 3",
+                "image": "e3.png",
+                "video": "explanation3.mp4"
+            },
+            "topic": "Biology",
+            "difficulty": "Hard"
+        }
     ]
 }
